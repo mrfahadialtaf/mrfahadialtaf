@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Fadi Altaf
 
-### Senior Data Engineer | Multi-Cloud & AI Infrastructure Specialist
+### SENIOR DATA ENGINEER | CLOUD DATA PLATFORMS | ETL/ELT & DATA INTEGRATION
+### REAL-TIME & STREAMING DATA | LAKEHOUSE ARCHITECTURE | AI-READY DATA INFRASTRUCTURE
 
 Building scalable data platforms, real-time pipelines, cloud lakehouses, and AI-ready data infrastructure.
 
