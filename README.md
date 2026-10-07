@@ -202,9 +202,12 @@ Low-latency event-driven architecture for financial transaction processing and a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mrfahadialtaf&show_icons=true&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrfahadialtaf&theme=github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfahadialtaf&layout=compact&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfahadialtaf&layout=compact&hide_border=true" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrfahadialtaf&theme=github" />
 
 </div>
 
