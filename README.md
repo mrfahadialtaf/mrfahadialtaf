@@ -1,240 +1,173 @@
-<div align="center">
+# Hi, I'm Fadi Altaf 👋
 
-# 👋 Hi, I'm Fadi Altaf
+### Senior Data Architect | Multi-Cloud Data Platforms | Lakehouse Architecture | Snowflake | Databricks | AI/ML
 
-### SENIOR DATA ENGINEER | CLOUD DATA PLATFORMS | ETL/ELT & DATA INTEGRATION
-### REAL-TIME & STREAMING DATA | LAKEHOUSE ARCHITECTURE | AI-READY DATA INFRASTRUCTURE
+Welcome to my GitHub profile!
 
-Building scalable data platforms, real-time pipelines, cloud lakehouses, and AI-ready data infrastructure.
+I'm a **Senior Data Architect with 10+ years of experience** designing, building, and modernizing enterprise data platforms across Financial Services, Insurance, Healthcare, and SaaS industries.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fadi%20Altaf-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fahad-altaf-0b5b76382/)
-[![GitHub](https://img.shields.io/badge/GitHub-mrfahadialtaf-181717?style=flat&logo=github&logoColor=white)](https://github.com/mrfahadialtaf)
-![Profile Views](https://komarev.com/ghpvc/?username=mrfahadialtaf&style=flat)
+I specialize in building scalable, secure, and high-performance data architectures across AWS, Microsoft Azure, and Google Cloud. My focus is on modern data engineering, enterprise data warehousing, lakehouse solutions, real-time analytics, data governance, and AI/ML enablement.
 
-</div>
+I enjoy solving complex data challenges, designing cloud-native architectures, and transforming raw data into reliable, business-ready insights.
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Senior Data Engineer with ~9 years of experience** designing and building enterprise data platforms, scalable ETL/ELT pipelines, cloud lakehouses, real-time streaming solutions, and AI-ready data infrastructure.
-
-My experience spans **Healthcare, SaaS, FinTech, and E-commerce**, with hands-on expertise across **Microsoft Azure, AWS, Google Cloud Platform, Microsoft Fabric, Databricks, Spark, Kafka, dbt, Airflow, Terraform, and Kubernetes**.
-
-I focus on building data platforms that are:
-
-- Scalable and production-ready
-- Secure and compliant
-- Observable and reliable
-- Cost optimized
-- Automated through Infrastructure as Code and CI/CD
-- Ready for analytics, machine learning, and GenAI workloads
-
-> **Engineering reliable data platforms that turn complex data into business value.**
+- 🏗️ Senior Data Architect specializing in enterprise data architecture and cloud modernization.
+- ☁️ Experienced in AWS, Azure, and Google Cloud Platform.
+- ❄️ Hands-on expertise in Snowflake, Databricks, Delta Lake, and Microsoft Fabric.
+- 🔄 Designing scalable batch, streaming, and real-time data processing architectures.
+- 📊 Experienced in enterprise data warehousing, dimensional modeling, and lakehouse architecture.
+- 🔐 Focused on data governance, security, compliance, and quality management.
+- 🧠 Building data foundations for advanced analytics, machine learning, and AI-driven solutions.
+- 👥 Experienced in technical leadership, architecture standards, and cross-functional collaboration.
 
 ---
 
-## 🚀 Key Highlights
-
-- 🏗️ Architected enterprise **Lakehouse and Data Warehouse** solutions across Azure, AWS, GCP, and Microsoft Fabric
-- ⚡ Built high-throughput **Apache Kafka + PySpark** streaming pipelines
-- 🏥 Designed HIPAA-aligned healthcare data pipelines processing large-scale EHR and clinical datasets
-- 📊 Developed scalable **dbt, Airflow, ADF, Databricks, and Fabric** data workflows
-- 🤖 Built AI-ready pipelines supporting **Vector Search and RAG architectures**
-- ☁️ Automated cloud infrastructure using **Terraform and Infrastructure as Code**
-- 🔄 Implemented CI/CD workflows with **GitHub Actions and Jenkins**
-- 🔐 Implemented data governance, RBAC, PHI/PII protection, and automated quality controls
-- 💰 Optimized cloud compute and storage architectures to reduce infrastructure costs
-- 👥 Mentored engineers and established engineering standards, code reviews, and operational best practices
-
----
-
-## 🛠️ Languages & Tools
+## 🛠️ Technical Skills
 
 ### Cloud Platforms
+- AWS: S3, Glue, Redshift, EMR, Lambda, Kinesis
+- Microsoft Azure: Data Factory, Synapse Analytics, Azure Data Lake, Azure Databricks
+- Google Cloud: BigQuery, Dataflow, Pub/Sub, Dataproc
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
-</p>
+### Modern Data Platforms
+- Snowflake
+- Databricks
+- Delta Lake
+- Apache Iceberg
+- Microsoft Fabric
+- OneLake
+- Apache Spark
+- Hadoop & Hive
 
-**Microsoft Azure • AWS • Google Cloud Platform • Microsoft Fabric**
+### Data Engineering & Processing
+- Python, PySpark, SQL, Scala, Java, Bash
+- Apache Kafka
+- Apache Flink
+- Apache Airflow
+- dbt
+- ETL / ELT
+- Batch & Real-Time Streaming
+- CDC & Incremental Data Processing
+- REST API Integrations
 
-### Data Engineering & Big Data
+### Data Architecture & Modeling
+- Enterprise Data Architecture
+- Data Warehouse Modernization
+- Lakehouse Architecture
+- Medallion Architecture
+- Dimensional Modeling
+- Star Schema & Snowflake Schema
+- Data Vault
+- Conceptual, Logical & Physical Data Modeling
+- Data Lake & Data Mart Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,kafka" />
-</p>
-
-**Python • SQL • PySpark • Apache Spark • Apache Kafka • Databricks • Delta Lake • OneLake**
-
-### Data Warehousing
-
-**Azure Synapse Analytics • AWS Redshift • Google BigQuery • Snowflake • PostgreSQL • MySQL**
-
-### Orchestration & Transformation
-
-**Apache Airflow • dbt • Azure Data Factory • Fabric Data Factory • Fivetran • Census**
+### Data Governance & Security
+- Data Governance
+- Data Quality Management
+- Metadata Management
+- Data Cataloging & Lineage
+- Data Stewardship
+- HIPAA & PHI/PII Protection
+- PCI-DSS
+- Role-Based Access Control
 
 ### DevOps & Infrastructure
+- Terraform
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- Infrastructure as Code
+- Cloud Infrastructure Optimization
 
-<p>
-<img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,github,jenkins,git,linux" />
-</p>
-
-**Terraform • Docker • Kubernetes • GitHub Actions • Jenkins • Git • Linux**
-
-### AI & Data Quality
-
-**Azure Vector Search • Vector Databases • RAG Data Pipelines • Great Expectations • Data Quality Frameworks**
-
----
-
-## 🎯 Focus Areas
-
-- ☁️ Multi-Cloud Data Architecture
-- 🏗️ Lakehouse & Data Warehouse Architecture
-- ⚡ Real-Time Data Streaming
-- 🔄 ETL / ELT Engineering
-- 📊 Data Modeling & Analytics Engineering
-- 🤖 AI / RAG Data Infrastructure
-- 🧠 Vector Search & Embedding Pipelines
-- 🔐 Data Governance & Security
-- 🏥 Healthcare Data Engineering
-- ⚙️ Infrastructure as Code
-- 🚀 CI/CD for Data Platforms
-- 📈 Performance & Cost Optimization
+### Analytics & AI/ML
+- Machine Learning Data Pipelines
+- Feature Engineering
+- MLflow
+- Predictive Analytics
+- Enterprise Analytics
+- Self-Service BI Enablement
 
 ---
 
-## 💼 Professional Experience
+## 🏢 Professional Experience
 
-### Senior Data Engineer — Integra Connect
-**May 2023 – Present**
+| Company | Position | Period |
+|---|---|---|
+| NantHealth | Enterprise Data Architect | July 2022 – Present |
+| Truthset | Senior Data Engineer | September 2019 – June 2022 |
+| Middesk | Data Engineer | March 2016 – August 2019 |
 
-- Architecting HIPAA-compliant data lakehouse solutions using **Azure Databricks and Microsoft Fabric OneLake**
-- Building scalable PySpark ingestion and transformation pipelines
-- Supporting enterprise AI/RAG pipelines using **Azure Vector Search**
-- Implementing PHI/PII protection, RBAC, automated data quality, and governance
-- Automating infrastructure using **Terraform and GitHub Actions**
+### Key Areas of Experience
 
-### Warehouse Data Engineer — Datavail
-**April 2022 – April 2023**
+**Enterprise Healthcare Data Architecture**
+- Designed enterprise cloud data platforms using AWS, Snowflake, Databricks, and Microsoft Fabric.
+- Implemented Delta Lake and Medallion Architecture with Bronze, Silver, and Gold processing layers.
+- Established HIPAA-compliant data architecture and enterprise governance frameworks.
+- Reduced data processing latency by 35% through Snowflake and Databricks optimization.
 
-- Engineered multi-cloud analytics pipelines across **GCP and AWS**
-- Developed modular transformation models using **dbt and BigQuery**
-- Built orchestration workflows with **Apache Airflow**
-- Integrated SaaS platforms through automated ingestion and reverse-ETL workflows
-- Optimized BigQuery workloads and analytics performance
+**SaaS Data Platform Engineering**
+- Architected multi-tenant SaaS data platforms.
+- Developed real-time event-driven pipelines using Apache Kafka and Flink.
+- Designed ML-ready datasets and feature engineering pipelines.
+- Modernized legacy ETL workflows into cloud-native data platforms.
 
-### Big Data Engineer — Ocrolus
-**September 2019 – March 2022**
-
-- Built real-time financial streaming pipelines using **Apache Kafka and PySpark**
-- Developed scalable data processing workloads on **AWS EMR**
-- Optimized AWS Redshift data warehouse performance
-- Supported production machine-learning data pipelines
-- Containerized data services using Docker and automated deployments with Jenkins
-
-### ETL/ELT Developer — Ordergroove
-**June 2017 – August 2019**
-
-- Developed enterprise ETL/ELT pipelines using **Python, SQL, and SSIS**
-- Designed dimensional Star and Snowflake schemas
-- Built PostgreSQL and MySQL data integrations
-- Automated vendor API ingestion workflows
-- Improved batch processing and SQL performance
+**Financial Data Engineering**
+- Built cloud data warehouse solutions using Amazon Redshift, Snowflake, and Google BigQuery.
+- Developed streaming and batch pipelines for financial transaction processing.
+- Designed fraud analytics and anomaly detection data pipelines.
+- Improved analytical query performance by 40% across financial reporting workloads.
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🏗️ Architecture & Project Interests
 
-### 🏥 Healthcare Vector Data Pipeline & Ingestion Engine
+### 1. Enterprise Cloud Data Lake & Lakehouse Architecture
+Designing scalable cloud data lake and lakehouse platforms using AWS, Databricks, Delta Lake, and distributed processing frameworks.
 
-Enterprise healthcare data pipeline designed for large-scale clinical data processing and AI-ready workloads.
+Key Focus:
+- Enterprise data ingestion and transformation.
+- Bronze, Silver, and Gold architecture.
+- Data governance and metadata management.
+- Secure and scalable analytics platforms.
+- AI/ML-ready data foundations.
 
-**Architecture**
+### 2. Financial Transaction & Fraud Analytics Architecture
+Designing event-driven financial data platforms integrating payment gateways, financial APIs, Kafka, and Spark.
 
-`EHR Data → ADLS Gen2 → Databricks/PySpark → PHI Masking → Embeddings → Azure Vector Search → RAG Applications`
-
-**Technology**
-
-`Azure Databricks` `PySpark` `ADLS Gen2` `Azure Vector Search` `Microsoft Fabric`
-
----
-
-### ☁️ Multi-Cloud Event Analytics Platform
-
-Multi-cloud analytics architecture for high-volume event and telemetry processing.
-
-**Architecture**
-
-`Applications → AWS S3 / GCS → Airflow → BigQuery → dbt → Analytics / CRM`
-
-**Technology**
-
-`AWS` `GCP` `BigQuery` `dbt` `Airflow` `Great Expectations`
+Key Focus:
+- Real-time transaction processing.
+- Financial data integration.
+- Fraud detection and anomaly analytics.
+- Cloud data warehouse integration.
+- PCI-DSS-aware security architecture.
 
 ---
 
-### ⚡ Real-Time Financial Streaming Engine
+## 📚 Areas I'm Passionate About
 
-Low-latency event-driven architecture for financial transaction processing and anomaly detection.
-
-**Architecture**
-
-`Transaction Events → Kafka → PySpark Streaming → ML Scoring → AWS Redshift`
-
-**Technology**
-
-`Apache Kafka` `PySpark` `AWS EMR` `AWS Redshift`
-
----
-
-## 🏆 Certifications
-
-- 🎓 Microsoft Certified: Fabric Analytics Engineer Associate — **DP-600**
-- ☁️ AWS Certified Data Engineer — Associate
-- 🔥 Databricks Certified Data Engineer Professional
+- Modern Data Architecture
+- Cloud-Native Data Engineering
+- Snowflake & Databricks Optimization
+- Microsoft Fabric & OneLake
+- Enterprise Lakehouse Modernization
+- Real-Time Data Streaming
+- Data Governance & Security
+- AI/ML Data Infrastructure
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
-<div align="center">
+I'm always interested in connecting with data professionals, architects, engineers, and technology leaders to exchange ideas and explore opportunities in modern data platforms.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrfahadialtaf&theme=github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfahadialtaf&layout=compact&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrfahadialtaf&theme=github" />
-
-</div>
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/muhammad-hamza-altaf-0b5b76382)
+- 🌐 **Portfolio:** [Visit My Portfolio](https://mrfadialtaf.github.io/myportfolio)
+- 💻 **GitHub:** [Explore My Repositories](https://github.com/mrfahadialtaf)
+- 📧 **Email:** mrfadialtaf@gmail.com
 
 ---
 
-## 🤝 Connect With Me
-
-I'm interested in discussing:
-
-- Data Engineering
-- Cloud Data Architecture
-- Microsoft Fabric & Databricks
-- Multi-Cloud Data Platforms
-- AI / RAG Infrastructure
-- Real-Time Streaming Architecture
-- Data Platform Engineering opportunities
-
-📧 **Email:** mrfadialtaf@gmail.com  
-💼 **LinkedIn:** [Muhammad Fahad Altaf](https://www.linkedin.com/in/muhammad-fahad-altaf-0b5b76382/)  
-💻 **GitHub:** [mrfahadialtaf](https://github.com/mrfahadialtaf)
-
----
-
-<div align="center">
-
-### ⚡ Build reliable data. Automate everything. Engineer for scale.
-
-⭐ **Thanks for visiting my profile!**
-
-</div>
+⭐ *Building scalable data platforms. Transforming complex data into business value.*
